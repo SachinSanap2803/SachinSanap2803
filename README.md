@@ -237,6 +237,22 @@ const sachin = {
 ## 🏆 Achievements & Certifications
 
 
+
+| Certificate | Verification |
+|-------------|-------------|
+| 🛡️ Cybersecurity Fundamentals | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square&logo=credly)](https://www.credly.com/badges/a49cd16f-45b6-487e-a20e-db996f6c9392) |
+| 💻 Operating System | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square)](https://moonshot.scaler.com/s/sl/9uzcY9Fisl?_gl=1*144jcrx*_gcl_au*MTg2NzgzNzAyNi4xNzczNzQyODAz*FPAU*MTg2NzgzNzAyNi4xNzczNzQyODAz*_ga*MTQxNTI2NzU2MS4xNzczNzQyODAz*_ga_53S71ZZG1X*czE3NzUxNDUyNjkkbzQkZzEkdDE3NzUxNTM0OTckajIyJGwwJGgxODA1MjEzNjg2) |
+| 🌐 Full Stack Development | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square)](https://simpli-web.app.link/e/xzSjrqWjn2b) |
+| ⚛️ Introduction to MERN Stack | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square)](https://simpli-web.app.link/e/AYx7NAZVp2b) |
+| 🟨 JavaScript | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/281e8668e39d) |
+| ⚛️ React | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/f47b4b7aea62) |
+| 🗄️ SQL | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/36fc927b2372) |
+| ☕ Java | [![Verify](https://img.shields.io/badge/Verify-Certificate-success?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/certificates/iframe/885906226097) |
+
+
+
+
+
 ---
 
 
