@@ -266,7 +266,7 @@ const sachin = {
 <a href="https://github.com/SachinSanap2803">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://instagram.com/sss2803">
+<a href="https://instagram.com/sachin_ss_28">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
