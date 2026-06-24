@@ -51,7 +51,7 @@
 ```javascript
 const sachin = {
     education: "Pre-final Year B.Tech IT @ Pimpri Chinchwad College of Engineering, Pune",
-    cgpa: "8.04",
+    cgpa: "8.15",
     location: "Pune, Maharashtra, India",
     interests: [
         "Full-Stack Web Development",
@@ -226,7 +226,7 @@ const sachin = {
 **Pimpri Chinchwad College of Engineering, Pune**  
 📚 Information Technology  
 📅 2023 - Present  
-⭐ CGPA: **8.04**
+⭐ CGPA: **8.15**
 
 </td>
 </tr>
