@@ -41,7 +41,7 @@
 ## 🚀 About Me
 
 <div>
-🎓 <b>Pre-final Year B.Tech Information Technology Student</b> | CGPA: <b>8.04</b> <br/>
+🎓 <b>Pre-final Year B.Tech Information Technology Student</b> | CGPA: <b>8.15</b> <br/>
 💻 Specializing in <b>MERN Stack Development</b> with hands-on experience in building full-scale web applications <br/>
 🧩 Passionate about <b>Data Structures & Algorithms</b>, actively solving problems on <b>LeetCode</b>, <b>HackerRank</b>, and <b>GeeksforGeeks</b>
 </div>
